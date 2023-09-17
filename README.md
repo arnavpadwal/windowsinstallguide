@@ -32,7 +32,7 @@
 ### Next steps, yet to be explained.
 - Disable secure boot in bios (https://youtu.be/brXcxmdWU9Q?t=17)
 - boot from pendrive (https://www.youtube.com/watch?v=wH9q3KSISvQ)
-- go through base setup (language and terms. select windows 10 pro if prompted with list)
+- go through base setup (language and terms. select windows 10 pro if prompted with list). <span style="color: red;">DO NOT SIGN INTO A MICROSOFT ACCOUNT!</span>
 - disk partitioning (`call me during this`)
 ![Local Image](disk-partitioning.png)
 - completing setup (toggle off all options. privacy nightmare!)
