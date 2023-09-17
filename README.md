@@ -41,8 +41,10 @@
 - boot from pendrive (https://www.youtube.com/watch?v=wH9q3KSISvQ)
 - go through base setup (language and terms. select windows 10 pro if prompted with list). <span style="color: red;">DO NOT SIGN INTO A MICROSOFT ACCOUNT!</span>
 - disk partitioning (`call me during this`)
+- 
 ![Local Image](disk-partitioning.png)
 - completing setup (toggle off all options. privacy nightmare!)
+- 
 ![Local Image](toggle-off-trash.png)
 - now continue setup
 - done.
