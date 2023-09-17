@@ -11,25 +11,26 @@
 1. Create a folder and paste windows 10 iso and ventoy zip both files into this folder. (for convenience)
 2. Exctract ventoy__.zip
 3. Right click on `Ventoy2Disk.exe` and open as administrator.
+4. 
    ![Local Image](ventoy.png)
-4. It should look like this.
-5.  
+5. It should look like this.
+6.  
    ![Local Image](ventoy2.png)
-6. Now connect your pendrive and click the green refresh button. Your pendrive will now be visible under `Device`.
-7. 
+7. Now connect your pendrive and click the green refresh button. Your pendrive will now be visible under `Device`.
+8. 
    ![Local Image](ventoy3.png)
-8. Click on Option tab on top left side of the window and select/set these options.
-9. 
+9. Click on Option tab on top left side of the window and select/set these options.
+10. 
     ![Local Image](ventoy4.png)
-10. Once ready, hit the `Install` button. Click `Ok` in following prompts and wait for the process to be completed.
-11. 
+11. Once ready, hit the `Install` button. Click `Ok` in following prompts and wait for the process to be completed.
+12. 
     ![Local Image](ventoy5.png)
-12. Once completed, you will be notified with this prompt.
-13. 
+13. Once completed, you will be notified with this prompt.
+14. 
     ![Local Image](ventoy6.png)
-14. Hit `OK` and close the window.
-15. Finally, eject your pendrive from task manager. (You may see 2 devices, eject any one, the other will be ejected simultaneously).
-16. 
+15. Hit `OK` and close the window.
+16. Finally, eject your pendrive from task manager. (You may see 2 devices, eject any one, the other will be ejected simultaneously).
+17. 
     ![Local Image](eject.png)
 
 ## Installation Instructions: (PC)
